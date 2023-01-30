@@ -1,33 +1,34 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
+            "title": "Full Stack Developer",
             "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "workType": "Self-Employed",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Built reusable components that can be used across multiple pages/features as well as built reusable libraries of functions or utilities that are commonly needed throughout the application.",
+                "Experience with high-performance web delivery, cloud (AWS) and DevOps"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "03/2022 – Present"
         },
         {
-            "title": "Software Engineer",
+            "title": "Front-End Developer",
             "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "workType": "X-Team, Remote",
             "workDescription": [
-                "Worked on abc."
+                "Worked with the senior developer to create a new website from scratch using HTML, CSS and JavaScript",
+                "Built single page applications (SPA), responsive web design, UI using HTML5 grid layouts, CSS3 media queries where its an expression and can be used to either true or false."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "01/2017 – 11/2021"
         },
         {
-            "title": "App Developer",
+            "title": "Back-End Developer",
             "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "workType": "X-Team, Remote",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Used several languages and frameworks to build products including Node/Express, Python/Django, Ruby/Rails, and C#/.NETwith React,Vue.js and Angular",
+                "Collaborated closelywith other developers on crossfunctional teams including front-end engineers, designers, QA testers etc."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "02/2012 – 11/2016"
         }
     ]
 }

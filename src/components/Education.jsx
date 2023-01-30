@@ -1,16 +1,16 @@
-import React, { useEffect, useState, useContext } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Chrono } from 'react-chrono';
 import { Container } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import Fade from 'react-reveal';
-import { ThemeContext } from 'styled-components';
+// import { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
 import Header from './Header';
 import FallbackSpinner from './FallbackSpinner';
 import '../css/education.css';
 
 function Education(props) {
-  const theme = useContext(ThemeContext);
+  // const theme = useContext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
   const [width, setWidth] = useState('50vw');
@@ -53,13 +53,13 @@ function Education(props) {
                 items={data.education}
                 cardHeight={250}
                 mode={mode}
-                theme={{
-                  primary: theme.accentColor,
-                  secondary: theme.accentColor,
-                  cardBgColor: theme.chronoTheme.cardBgColor,
-                  cardForeColor: theme.chronoTheme.cardForeColor,
-                  titleColor: theme.chronoTheme.titleColor,
-                }}
+                // theme={{
+                //   primary: theme.accentColor,
+                //   secondary: theme.accentColor,
+                //   cardBgColor: theme.chronoTheme.cardBgColor,
+                //   cardForeColor: theme.chronoTheme.cardForeColor,
+                //   titleColor: theme.chronoTheme.titleColor,
+                // }}
               >
                 <div className="chrono-icons">
                   {data.education.map((education) => (education.icon ? (

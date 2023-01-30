@@ -1,6 +1,6 @@
-import React, { useEffect, useState, useContext } from 'react';
+import React, { useEffect, useState } from 'react';
 import { SocialIcon } from 'react-social-icons';
-import { ThemeContext } from 'styled-components';
+// import { ThemeContext } from 'styled-components';
 import endpoints from '../constants/endpoints';
 
 const styles = {
@@ -12,7 +12,7 @@ const styles = {
 };
 
 function Social() {
-  const theme = useContext(ThemeContext);
+  // const theme = useContext(ThemeContext);
   const [data, setData] = useState(null);
 
   useEffect(() => {
@@ -32,7 +32,7 @@ function Social() {
           style={styles.iconStyle}
           url={social.href}
           network={social.network}
-          bgColor={theme.socialIconBgColor}
+          // bgColor={theme.socialIconBgColor}
           target="_blank"
           rel="noopener"
         />
