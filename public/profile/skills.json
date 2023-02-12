@@ -14,8 +14,20 @@
                     "title": "PHP"
                 },
                 {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
                 },
                 {
                     "icon": "images/skills/python.png",
@@ -24,15 +36,15 @@
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
@@ -40,6 +52,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/django.png",
+                    "title": "Django"
                 }
             ]
         },
@@ -47,12 +63,12 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
                     "icon": "images/skills/git.png",
                     "title": "Git"
+                },
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 },
                 {
                     "icon": "images/skills/docker.png",
