@@ -4,11 +4,6 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
                 {
                     "icon": "images/skills/php.png",
                     "title": "PHP"
@@ -30,8 +25,20 @@
                     "title": "TypeScript"
                 },
                 {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
                     "icon": "images/skills/python.png",
                     "title": "Python"
+                },
+                {
+                    "icon": "images/skills/ruby.png",
+                    "title": "Ruby"
+                },
+                {
+                    "icon": "images/skills/csharp.png",
+                    "title": "C#"
                 },
                 {
                     "icon": "images/skills/mysql.png",
@@ -40,6 +47,10 @@
                 {
                     "icon": "images/skills/mongo-db.png",
                     "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/postgresql.png",
+                    "title": "PostgreSQL"
                 }
         ]},
         {
@@ -48,14 +59,62 @@
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
+                },                
+                {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
+                },
+                {
+                    "icon": "images/skills/next.png",
+                    "title": "Nextjs"
+                },
+                {
+                    "icon": "images/skills/vuejs.png",
+                    "title": "Vuejs"
                 },
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
                 },
                 {
+                    "icon": "images/skills/laravel.png",
+                    "title": "Laravel"
+                },
+                {
+                    "icon": "images/skills/wordpress.png",
+                    "title": "WordPress"
+                },
+                {
+                    "icon": "images/skills/shopify.png",
+                    "title": "Shopify"
+                },
+                {
                     "icon": "images/skills/django.png",
                     "title": "Django"
+                },
+                {
+                    "icon": "images/skills/rails.png",
+                    "title": "Ruby on Rails"
+                },
+                {
+                    "icon": "images/skills/bootstrap.png",
+                    "title": "BootStrap"
+                },
+                {
+                    "icon": "images/skills/tailwind-css.png",
+                    "title": "Tailwind CSS"
+                },
+                {
+                    "icon": "images/skills/material-ui.png",
+                    "title": "Material UI"
+                },
+                {
+                    "icon": "images/skills/rest-api.png",
+                    "title": "REST API"
+                },
+                {
+                    "icon": "images/skills/graphql.png",
+                    "title": "GraphQL"
                 }
             ]
         },
@@ -67,12 +126,44 @@
                     "title": "Git"
                 },
                 {
+                    "icon": "images/skills/jira.png",
+                    "title": "Jira"
+                },
+                {
                     "icon": "images/skills/firebase.png",
                     "title": "Firebase"
                 },
                 {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                },
+                {
+                    "icon": "images/skills/gcp.png",
+                    "title": "GCP"
+                },
+                {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VSCode"
+                },
+                {
+                    "icon": "images/skills/visual-studio.png",
+                    "title": "Visual Studio"
+                },
+                {
+                    "icon": "images/skills/sublime.png",
+                    "title": "Sublime"
+                },
+                {
+                    "icon": "images/skills/windows.png",
+                    "title": "Windows"
+                },
+                {
+                    "icon": "images/skills/linux.png",
+                    "title": "Linux"
                 }
             ]
     }
